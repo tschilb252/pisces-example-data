@@ -8,4 +8,7 @@ There are two precipitation dumps occuring.    Note: There is an assosicate data
 
 ![15 minute Data](https://github.com/usbr/pisces-example-data/raw/master/data-issues/battery/precipitation_gauge_manual_dump.csv )
 
+![15 minute Data another example - at Arrowrock Reservoir](https://github.com/usbr/pisces-example-data/raw/master/data-issues/battery/precipitation_gauge_manual_dump-arrowrock.csv )
+
+
 ![Daily Data](https://github.com/usbr/pisces-example-data/raw/master/data-issues/battery/precipitation_gauge_manual_dump_daily.csv)
